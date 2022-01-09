@@ -5,12 +5,12 @@
 * 브라우저
  - [x] 구글 크롬
 ## 구조
-* Client(https://github.com/NikkieS/w1f1_project/tree/main/Client)
+* [Client](https://github.com/NikkieS/w1f1_project/tree/main/Client)
  1. 회원가입
  2. 카카오간편 로그인
  3. 카카오간편 로그아웃
-* Comment
+* [Comment](https://github.com/NikkieS/w1f1_project/tree/main/Comment)
  1. 예시
-* 3.Order (Server)
+* 3.[Order](https://github.com/NikkieS/w1f1_project/tree/main/Order)
  1. 예시
 ##
