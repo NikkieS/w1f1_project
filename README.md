@@ -5,9 +5,9 @@
 * 프레임워크
   - Spring 4.3.18
 * OS
- - 구글 크롬
+  - 구글 크롬
 * Language
- - Java 1.8
+  - Java 1.8
 ## 구성
 * __[Client](https://github.com/NikkieS/w1f1_project/tree/main/Client)__
  1. 회원가입 및 확인
@@ -21,11 +21,11 @@
 * __[Order](https://github.com/NikkieS/w1f1_project/tree/main/Order)__
  1. 거래알림
  2. 상품
-  - 상품관리
-  - 구매자 관리
-  - 예비 구매자(참여자) 관리
-  - 구매자 평점 등록
+    - 상품관리
+    - 구매자 관리
+    - 예비 구매자(참여자) 관리
+    - 구매자 평점 등록
  3. 주문
-  - 나의 주문관리
-  - 나의 주문현황
-  - 판매자 평점 등록
+    - 나의 주문관리
+    - 나의 주문현황
+    - 판매자 평점 등록
